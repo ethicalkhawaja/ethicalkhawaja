@@ -12,10 +12,12 @@ Networking Student | CCNA (In Progress) | Python Beginner
 ## 🛠 Skills
 - Cisco Packet Tracer  
 - CCNA Fundamentals  
-- IP Addressing & Subnetting  
+- IP Addressing & Subnetting
+- Routing Protocols (OSPF, EIGRP)
 - OSI & TCP/IP Models  
 - Basic Network Troubleshooting  
-- Python (Basics)  
+- Python (Basics)
+- Mathematics (Strong basics in Algebra & Trigonometry)
 ---
 ## 🎯 Goals
 - Complete CCNA certification  
