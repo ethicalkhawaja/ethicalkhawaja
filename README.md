@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohammad Omar Khawaja Zada
-Networking Student | CCNA (In Progress) | Python Beginner  
+Networking Student | Finsished CCNA Studies | Python Beginner  
 
 ✉️ Email: ethicalkhawaja@gmail.com  
 
@@ -10,11 +10,13 @@ Networking Student | CCNA (In Progress) | Python Beginner
 - 💬 Interested in understanding how networks work  
 ---
 ## 🛠 Skills
-- Cisco Packet Tracer  
-- CCNA Fundamentals  
+- Cisco Packet Tracer
+- Spanning tree Protocol
 - IP Addressing & Subnetting
+- Vlan and Inter Vlan routing(ROAS)
 - Routing Protocols (OSPF, EIGRP)
-- OSI & TCP/IP Models  
+- OSI & TCP/IP Models
+- ACL Secrutiy
 - Basic Network Troubleshooting  
 - Python (Basics)
 - Mathematics (Strong basics in Algebra & Trigonometry)
