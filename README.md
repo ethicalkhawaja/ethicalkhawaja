@@ -29,7 +29,9 @@ Networking Student | Finsished CCNA Studies | Python Beginner
 ## 🎯 Goals
 - Complete CCNA certification  
 - Build strong networking fundamentals  
-- Improve practical lab skills  
+- Improve practical lab skills
+
+- ##Soial Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ethicalkhawaja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-omar-khawajazada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar61710@gmail.com)
 
 <!-- Snake Game Repo View -->
