@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mohammad Omar Khawaja Zada
 Networking Student | Finsished CCNA Studies | Python Beginner  
 
-✉️ Email: ethicalkhawaja@gmail.com  
+✉️ Email: omar610710@gmail.com  
 
 ---
 ## 🧠 About Me
@@ -14,9 +14,12 @@ Networking Student | Finsished CCNA Studies | Python Beginner
 - Spanning tree Protocol
 - IP Addressing & Subnetting
 - Vlan and Inter Vlan routing(ROAS)
+- Etherchannel
+- Static Routing
 - Routing Protocols (OSPF, EIGRP)
 - OSI & TCP/IP Models
 - ACL Secrutiy
+- Enterprise Network
 - Basic Network Troubleshooting  
 - Python (Basics)
 - Mathematics (Strong basics in Algebra & Trigonometry)
