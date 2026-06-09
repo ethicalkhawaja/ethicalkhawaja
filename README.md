@@ -22,6 +22,8 @@ Networking Student | Finsished CCNA Studies | Python Beginner
 - Enterprise Network
 - Basic Network Troubleshooting  
 - Python (Basics)
+- Github
+- Linux
 - Mathematics (Strong basics in Algebra & Trigonometry)
 ---
 ## 🎯 Goals
