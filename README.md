@@ -10,7 +10,7 @@ Networking Student | Finsished CCNA Studies | Python Beginner
 - 💬 Interested in understanding how networks work  
 ---
 ## 🛠 Skills
-- Cisco Packet Tracer
+- Networking Concepts(CCNA)
 - Spanning tree Protocol
 - IP Addressing & Subnetting
 - Vlan and Inter Vlan routing(ROAS)
@@ -20,7 +20,8 @@ Networking Student | Finsished CCNA Studies | Python Beginner
 - OSI & TCP/IP Models
 - ACL Secrutiy
 - Enterprise Network
-- Basic Network Troubleshooting  
+- Basic Network Troubleshooting
+-  Cisco Packet Tracer
 - Python (Basics)
 - Github
 - Linux
