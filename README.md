@@ -19,9 +19,11 @@ Networking Student | Finsished CCNA Studies | Python Beginner
 - Routing Protocols (OSPF, EIGRP)
 - OSI & TCP/IP Models
 - ACL Secrutiy
+- DHCP,NAT/PAT,DNS
 - Enterprise Network
+- Network Secrutiy Fundamentals
 - Basic Network Troubleshooting
--  Cisco Packet Tracer
+- Cisco Packet Tracer
 - Python (Basics)
 - Github
 - Linux
