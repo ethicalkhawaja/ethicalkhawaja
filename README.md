@@ -5,9 +5,11 @@ Networking Student | Finsished CCNA Studies | Python Beginner
 
 ---
 ## 🧠 About Me
--🛠️ Practicing Cisco Packet Tracer networking labs
--🐍 Learning Python basics and building beginner projects
--🔎 Interested in understanding how networks work and how they can be secured
+🛠️ Practicing Cisco Packet Tracer networking labs
+
+🐍 Learning Python basics and building beginner projects
+
+🔐 Exploring how networks work and how they can be secured
 ---
 ## 🛠 Skills
 - Networking Concepts(CCNA)
